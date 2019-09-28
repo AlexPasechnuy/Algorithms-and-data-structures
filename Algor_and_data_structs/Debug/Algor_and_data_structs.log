@@ -1,0 +1,14 @@
+﻿  main.cpp
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\menu.h(19): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_2.h(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_2.h(72): warning C4018: '<': signed/unsigned mismatch
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_2.h(76): warning C4018: '<': signed/unsigned mismatch
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_3.h(134): warning C4553: '==': result of expression not used; did you intend '='?
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_3.h(279): warning C4101: 'i': unreferenced local variable
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_5.h(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_5.h(35): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_5.h(65): warning C4018: '<': signed/unsigned mismatch
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_6.h(80): warning C4018: '<': signed/unsigned mismatch
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_6.h(102): warning C4018: '<': signed/unsigned mismatch
+d:\alex\documents\programming\1.university\labs\с++\algor_and_data_structs\algor_and_data_structs\lab_1.h(107): warning C4715: 'List::operator[]': not all control paths return a value
+  Algor_and_data_structs.vcxproj -> D:\Alex\Documents\Programming\1.University\Labs\С++\Algor_and_data_structs\Debug\Algor_and_data_structs.exe
